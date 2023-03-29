@@ -44,9 +44,4 @@ Grafický návrh obsahuje 3 plátna s rozložením webu pro mobil, tablet a poč
 
 Podívej se na [krátké YouTube video (20 min)](https://youtu.be/1ih_ZYdmNPU), kde ti ukážeme, jak s návrhem pracovat.
 
-## Jak si stáhnout podklady
 
-1. Udělej si **fork** této repozitáře - tím se ti úkol zkopíruje do tvého GitHub profilu.
-2. Forknutou repozitář si naklonuj k sobě na disk.
-
-Pokud nevíš, co je to **fork repozitáře** a jak ho provést, podívej se na [krátké video](https://youtu.be/K7rE3jRCjD4).
